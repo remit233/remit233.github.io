@@ -1,5 +1,9 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: rgb(135, 242, 187);
+  background: url("../img/advanture.png") no-repeat center center fixed;;
   text-align: center;
+  background-position: center bottom;
+  background-color: aquamarine;
+  text-shadow: 1px 0 0 rgb(255, 255, 255), 0 -1px 0 rgb(169, 113, 0), 0 1px 0 rgb(255, 255, 255), -1px 0 0 rgb(255, 255, 255);
+
 }

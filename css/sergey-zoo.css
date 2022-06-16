@@ -1,0 +1,35 @@
+body {
+  font-family: Gill Sans, sans-serif;
+  text-align: center;
+  background: url("../img/Sergey's img/swamp_image.jpg") no-repeat center center fixed;
+  background-size: cover;  
+}
+
+h1{
+  color: rgb(33, 150, 243);
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+h3{
+  color: rgb(33, 150, 243);
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: rgb(33, 150, 243);
+  padding: 10px;
+  width: 70%;
+  margin: auto;
+}
+
+.grid-item {
+  background-color: rgba(61, 214, 104, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+

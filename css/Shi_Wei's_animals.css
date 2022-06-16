@@ -1,0 +1,33 @@
+#octopus {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/Shi_Wei's img/octopus.jpg") no-repeat center center fixed;
+    background-size: cover; 
+}
+
+#dolphin {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/Shi_Wei's img/dolphin.jpg") no-repeat center center fixed;
+    background-size: cover; 
+}
+
+#whale {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/Shi_Wei's img/whale.jpg") no-repeat center center fixed;
+    background-size: cover; 
+}
+
+#shark {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/Shi_Wei's img/shark.jpg") no-repeat center center fixed;
+    background-size: cover; 
+}
+
+body {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    margin: 100px 200px 100px 200px;
+    font-size: 30px;
+}
